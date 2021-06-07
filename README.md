@@ -7,6 +7,10 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 - 🔭 I’m currently working on Flutter Ecommerce 
 - 📫 How to reach me: siddheshshivdikar16@gmail.com 
 
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddheshshivdikar)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-shivdikar/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sidshivdikar)
+
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
