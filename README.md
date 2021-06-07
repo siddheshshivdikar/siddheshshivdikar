@@ -31,7 +31,10 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 <br />
 
 ---
+
+[![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![Express.JS](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](#)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](#)
@@ -44,6 +47,13 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![MySql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Xampp](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)](#)
+[![Juypter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![Anaconda](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)](#)
+[![Salite](https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white)](#)
 
 ---
 
