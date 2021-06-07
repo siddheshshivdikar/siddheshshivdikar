@@ -39,6 +39,17 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 ---
 
+<p align ="center">
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshshivdikar&count_private=true&show_icons=true&theme=shades-of-purple" />
+</a>
+  <br />
+<a href="#">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=siddheshshivdikar" />
+</a>  
+  
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddheshshivdikar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddheshshivdikar&show_icons=true&count_private=true)  
