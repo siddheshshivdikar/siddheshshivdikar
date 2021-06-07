@@ -14,6 +14,10 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddheshshivdikar&show_icons=true&count_private=true)  
 
+### Playing In My 💖 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&redirect=true)
+<br />
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=siddheshshivdikar)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddheshshivdikar)  
@@ -21,7 +25,3 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 ![Profile views](https://gpvc.arturio.dev/siddheshshivdikar)  
 
 <br />
-
-### Playing In My 💖 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&redirect=true)
-<br/>
