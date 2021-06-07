@@ -23,7 +23,21 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&redirect=true)
 <br />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siddheshshivdikar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddhesh-shivdikar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](siddheshshivdikar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg' alt='pinterest' height='40'>](siddheshshivdikar)  
+---
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Express.JS](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)]()
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+[![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddheshshivdikar)](https://github.com/ryo-ma/github-profile-trophy)
 
