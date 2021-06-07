@@ -19,19 +19,24 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-shivdikar/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sidshivdikar)
 
----
 
 ### Playing right now 🎧
-<p align ="center">
-<a href="#">
-  <img align="start" src="https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&cover_image=true&theme=compact" />
-<br/>
-</a> 
-</p>
+
+<table align="center" border="0px">
+<tr>
+  <td border="0px">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&cover_image=true&theme=novatorem" />
+  </td >
+  <td>
+    <img height = "150" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  </td >
+</tr>
+</table>
+
+---
 
 <br />
 
----
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
@@ -56,6 +61,8 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Salite](https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white)
+
+<br />
 
 ---
 
