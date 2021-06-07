@@ -51,11 +51,13 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 </a>  
 </p>
 <br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=siddheshshivdikar)](https://github.com/ryo-ma/github-profile-trophy)
+<p align ="center">
+<a href="#">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=siddheshshivdikar" />
+</a>  
+</p>
+<br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddheshshivdikar&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=siddheshshivdikar)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddheshshivdikar)  
 
