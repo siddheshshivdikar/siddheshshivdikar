@@ -21,10 +21,13 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+### Playing right now 🎧
+<p align ="center">
+<a href="#">
+  <img align="start" src="https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&cover_image=true&theme=compact" />
+</a> 
+</p>
 
-### Playing In My 💖 Right Now 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&redirect=true)
 <br />
 
 ---
@@ -41,6 +44,7 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+
 ---
 
 <p align ="center">
