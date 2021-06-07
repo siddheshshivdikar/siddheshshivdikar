@@ -24,6 +24,8 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 
 ---
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ### Playing In My 💖 Right Now 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=u9bwhsrpe1zi0l5ayb53ecdg5&redirect=true)
 <br />
