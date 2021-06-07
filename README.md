@@ -5,7 +5,7 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 
 <br />
 
-[![Apple](https://img.shields.io/badge/Apple-MacBook_AIR_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![Apple](https://img.shields.io/badge/Apple-MacBook_AIR_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/)
 
 
 - 🔭 I’m currently working on Flutter Ecommerce 
