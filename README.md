@@ -48,14 +48,12 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 ---
 
 <p align ="center">
-<a href="#">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=siddheshshivdikar&count_private=true&show_icons=true&theme=shades-of-purple" />
-</a> 
-<a href="#">
-  <img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshivdikar" />
-</a> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddheshshivdikar&count_private=true&show_icons=true&theme=shades-of-purple" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshivdikar" />
 </p>
+
 <br />
+
 <p align ="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=siddheshshivdikar" />
