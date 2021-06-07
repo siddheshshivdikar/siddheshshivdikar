@@ -41,8 +41,11 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 
 <p align ="center">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddheshshivdikar&count_private=true&show_icons=true&theme=shades-of-purple" />
-</a>   
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=siddheshshivdikar&count_private=true&show_icons=true&theme=shades-of-purple" />
+</a> 
+<a href="#">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshshivdikar" />
+</a> 
 </p>
 <br />
 <p align ="center">
@@ -57,9 +60,6 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 </a>  
 </p>
 <br />
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddheshshivdikar)  
 
 ![Profile views](https://gpvc.arturio.dev/siddheshshivdikar)  
 
