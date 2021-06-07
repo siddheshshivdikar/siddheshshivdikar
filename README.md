@@ -19,3 +19,9 @@ Looking forward to pursue my career in Ms in AI and ML 🔮
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddheshshivdikar)  
 
 ![Profile views](https://gpvc.arturio.dev/siddheshshivdikar)  
+
+<br />
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/u9bwhsrpe1zi0l5ayb53ecdg5)
+<br/>
