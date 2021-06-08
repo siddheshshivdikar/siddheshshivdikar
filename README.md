@@ -4,7 +4,7 @@
 </a> 
 </p>
 
-Hello! I'm Siddhesh, a software engineer based in Mumbai, India. I'm passionate about building production-ready applications for web and mobile platforms. I develop automated Web Apps and Native Apps that provide an intuitive experience.
+Hello! 🙋🏻‍♂️ I'm Siddhesh, a software engineer based in Mumbai, India. I'm passionate about building production-ready applications for web and mobile platforms. I develop automated Web Apps and Native Apps that provide an intuitive experience.
 Looking forward to pursue my career in Ms in AI and ML 🔮
 
 <br />
