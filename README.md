@@ -7,6 +7,8 @@
 Hello! I'm Siddhesh , a software engineer based in Mumbai, India. I'm passionate about building production-ready applications for web and mobile platforms. I develop automated Web Apps and Native Apps that provide an intuitive experience.
 Looking forward to pursue my career in Ms in AI and ML 🔮
 
+fyi you wont find any max streaks more than 5 days i have balance life 🙃
+
 <br />
 
 [![Apple](https://img.shields.io/badge/Apple-MacBook_AIR_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/)
